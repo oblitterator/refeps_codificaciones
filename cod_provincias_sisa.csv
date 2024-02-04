@@ -1,0 +1,25 @@
+id_provincia;provincia;region;cod_prov_indec
+1;CABA;Región Centro;2
+2;Buenos Aires;Región Centro;6
+3;Catamarca;Región NOA;10
+4;Chaco;Región NEA;22
+5;Chubut;Región Patagonia;26
+6;Córdoba;Región Centro;14
+7;Corrientes;Región NEA;18
+8;Entre Ríos;Región Centro;30
+9;Formosa;Región NEA;34
+10;Jujuy;Región NOA;38
+11;La Pampa;Región Patagonia;42
+12;La Rioja;Región NOA;46
+13;Mendoza;Región Cuyo;50
+14;Misiones;Región NEA;54
+15;Neuquén;Región Patagonia;58
+16;Río Negro;Región Patagonia;62
+17;Salta;Región NOA;66
+18;San Juan;Región Cuyo;70
+19;San Luis;Región Cuyo;74
+20;Santa Cruz;Región Patagonia;78
+21;Santa Fe;Región Centro;82
+22;Santiago del Estero;Región NOA;86
+23;Tierra del Fuego;Región Patagonia;94
+24;Tucumán;Región NOA;90
