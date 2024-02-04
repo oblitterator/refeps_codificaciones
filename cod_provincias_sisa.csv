@@ -1,25 +1,25 @@
-id_provincia;provincia;region;cod_prov_indec
-1;CABA;Regi髇 Centro;2
-2;Buenos Aires;Regi髇 Centro;6
-3;Catamarca;Regi髇 NOA;10
-4;Chaco;Regi髇 NEA;22
-5;Chubut;Regi髇 Patagonia;26
-6;C髍doba;Regi髇 Centro;14
-7;Corrientes;Regi髇 NEA;18
-8;Entre R韔s;Regi髇 Centro;30
-9;Formosa;Regi髇 NEA;34
-10;Jujuy;Regi髇 NOA;38
-11;La Pampa;Regi髇 Patagonia;42
-12;La Rioja;Regi髇 NOA;46
-13;Mendoza;Regi髇 Cuyo;50
-14;Misiones;Regi髇 NEA;54
-15;Neuqu閚;Regi髇 Patagonia;58
-16;R韔 Negro;Regi髇 Patagonia;62
-17;Salta;Regi髇 NOA;66
-18;San Juan;Regi髇 Cuyo;70
-19;San Luis;Regi髇 Cuyo;74
-20;Santa Cruz;Regi髇 Patagonia;78
-21;Santa Fe;Regi髇 Centro;82
-22;Santiago del Estero;Regi髇 NOA;86
-23;Tierra del Fuego;Regi髇 Patagonia;94
-24;Tucum醤;Regi髇 NOA;90
+id_provincia,provincia,region,cod_prov_indec
+1,CABA,Regi贸n Centro,2
+2,Buenos Aires,Regi贸n Centro,6
+3,Catamarca,Regi贸n NOA,10
+4,Chaco,Regi贸n NEA,22
+5,Chubut,Regi贸n Patagonia,26
+6,C贸rdoba,Regi贸n Centro,14
+7,Corrientes,Regi贸n NEA,18
+8,Entre R铆os,Regi贸n Centro,30
+9,Formosa,Regi贸n NEA,34
+10,Jujuy,Regi贸n NOA,38
+11,La Pampa,Regi贸n Patagonia,42
+12,La Rioja,Regi贸n NOA,46
+13,Mendoza,Regi贸n Cuyo,50
+14,Misiones,Regi贸n NEA,54
+15,Neuqu茅n,Regi贸n Patagonia,58
+16,R铆o Negro,Regi贸n Patagonia,62
+17,Salta,Regi贸n NOA,66
+18,San Juan,Regi贸n Cuyo,70
+19,San Luis,Regi贸n Cuyo,74
+20,Santa Cruz,Regi贸n Patagonia,78
+21,Santa Fe,Regi贸n Centro,82
+22,Santiago del Estero,Regi贸n NOA,86
+23,Tierra del Fuego,Regi贸n Patagonia,94
+24,Tucum谩n,Regi贸n NOA,90
