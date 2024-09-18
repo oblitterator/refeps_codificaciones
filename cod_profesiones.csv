@@ -1,253 +1,60 @@
-id_profesion,profesion,id_profesion_referencia,profesion_referencia,formacion,habilitado
-171,Técnico En Administración Y Gestión,138,Técnico Administración En Salud,tecnicatura,NO
-259,Sociólogo,165,Sociólogo,grado_universitario,NO
-263,Lic. En Biotecnología,167,Biotecnólogo,grado_universitario,NO
-264,Ing. Agrónomo,166,Agrónomo,grado_universitario,NO
-267,Ingeniero Biomédico,169,Ingeniero Biomédico,grado_universitario,NO
-281,Contador,185,Contador,grado_universitario,NO
-282,Licenciado En Economía,186,Licenciado En Economía,grado_universitario,NO
-290,Abogado,189,Abogado,grado_universitario,NO
-291,Arquitecto,191,Arquitecto,grado_universitario,NO
-292,Ingeniero,190,Ingeniero,grado_universitario,NO
-295,Lic. En Ciencias Matemáticas,193,Matemático,grado_universitario,NO
-296,Comunicador Social,48,Licenciado En Comunicación Social,grado_universitario,NO
-297,Economista,186,Licenciado En Economía,grado_universitario,NO
-298,Lic. En Estadística,168,Lic. Estadística En Salud,grado_universitario,NO
-309,Técnico Universitario En Acompañamiento Terapéutio,100,Acompañante Terapéutico,tecnicatura,NO
-1,Médico,35,Médico,grado_universitario,SI
-2,Odontólogo,36,Odontólogo,grado_universitario,SI
-3,Licenciado Enfermería,37,Licenciado En Enfermería,grado_universitario,SI
-4,Farmacéutico,38,Farmacéutico,grado_universitario,SI
-5,Psicólogo,1,Psicólogo,grado_universitario,SI
-6,Licenciado En Psicología,1,Psicólogo,grado_universitario,SI
-7,Psicopedagogo,2,Psicopedagogo,grado_universitario,SI
-8,Licenciado En Psicopedagogía,2,Psicopedagogo,grado_universitario,SI
-9,Kinesiólogo,3,Kinesiólogo,grado_universitario,SI
-10,Licenciado En Kinesiología,3,Kinesiólogo,grado_universitario,SI
-11,Licenciado Terapia Física,3,Kinesiólogo,grado_universitario,SI
-12,Licenciado En Prótesis Y Ortesis,39,Licenciado En Prótesis Y Órtesis,grado_universitario,SI
-13,Terapista Ocupacional,4,Terapista Ocupacional,grado_universitario,SI
-14,Licenciado En Terapia Ocupacional,4,Terapista Ocupacional,grado_universitario,SI
-15,Musicoterapeuta,40,Musicoterapeuta,grado_universitario,SI
-16,Licenciado En Musicoterápia,40,Musicoterapeuta,grado_universitario,SI
-17,Licenciado En Psicomotrocidad,42,Psicomotricista,grado_universitario,SI
-18,Fonoaudiólogo,5,Fonoaudiólogo,grado_universitario,SI
-19,Licenciado En Fonoaudiología,5,Fonoaudiólogo,grado_universitario,SI
-20,Nutricionista,6,Nutricionista,grado_universitario,SI
-21,Licenciado En Nutrición,6,Nutricionista,grado_universitario,SI
-22,Nutricionista Dietista,6,Nutricionista,grado_universitario,SI
-23,Obstétrico,7,Lic. Obstetricia,grado_universitario,SI
-24,Licenciado En Obstetricia,7,Lic. Obstetricia,grado_universitario,SI
-25,Licenciado En Radiología,44,Licenciado En Producción De Bioimágenes,grado_universitario,SI
-26,Licenciado En Producción Bioimágenes,44,Licenciado En Producción De Bioimágenes,grado_universitario,SI
-27,Bioquímico,8,Bioquímico,grado_universitario,SI
-28,Licenciado En Bioquímica,8,Bioquímico,grado_universitario,SI
-29,Profesiones De Análisis Clínicos,9,Profesional De Análisis Clínicos,grado_universitario,SI
-30,Licenciado En Química,9,Profesional De Análisis Clínicos,grado_universitario,SI
-31,Químico,9,Profesional De Análisis Clínicos,grado_universitario,SI
-32,Licenciado En Física-Química,9,Profesional De Análisis Clínicos,grado_universitario,SI
-33,Licenciado En Química Industrial,9,Profesional De Análisis Clínicos,grado_universitario,SI
-34,Licenciado En Análisis Clínicos,9,Profesional De Análisis Clínicos,grado_universitario,SI
-35,Ingeniero Químico,9,Profesional De Análisis Clínicos,grado_universitario,SI
-36,Licenciado En Trabajo Social,10,Trabajador Social,grado_universitario,SI
-37,Trabajador Social,10,Trabajador Social,grado_universitario,SI
-38,Licenciado Servicio Social,10,Trabajador Social,grado_universitario,SI
-39,Asistente Social,10,Trabajador Social,grado_universitario,SI
-40,Licenciado Asistencia Social,10,Trabajador Social,grado_universitario,SI
-41,Licenciado Biología,11,Biólogo,grado_universitario,SI
-42,Biólogo,11,Biólogo,grado_universitario,SI
-43,Licenciado Biología Molecular,11,Biólogo,grado_universitario,SI
-44,Licenciado Microbiología,12,Microbiólogo,grado_universitario,SI
-45,Microbiólogo,12,Microbiólogo,grado_universitario,SI
-46,Bacteriólogo,13,Bacteriólogo,grado_universitario,SI
-47,Bacteriólogo Clínico Industrial,13,Bacteriólogo,grado_universitario,SI
-48,Licenciado En Genética,45,Genetista,grado_universitario,SI
-49,Bromatólogo,14,Tecnología Alimentaria,grado_universitario,SI
-50,Licenciado En Bromatología,14,Tecnología Alimentaria,grado_universitario,SI
-51,Licenciado En Tecnología Y Alimentos,14,Tecnología Alimentaria,grado_universitario,SI
-52,Ingeniero Industria Alimentación,14,Tecnología Alimentaria,grado_universitario,SI
-53,Fruticultor - Enólogo,14,Tecnología Alimentaria,grado_universitario,SI
-54,Licenciado En Estadística Para La Salud,168,Lic. Estadística En Salud,grado_universitario,SI
-55,Licenciado En Educación Para La Salud,47,Licenciado En Educación Para La Salud,grado_universitario,SI
-56,Licenciado En Comunicación Social,48,Licenciado En Comunicación Social,grado_universitario,SI
-57,Licenciado En Saneamiento Y Protección Ambiental,134,Saneamiento Ambiental,grado_universitario,SI
-58,Ambientólogo,134,Saneamiento Ambiental,grado_universitario,SI
-59,Ingeniero Sanitario,134,Saneamiento Ambiental,grado_universitario,SI
-60,Bioingeniería,134,Saneamiento Ambiental,grado_universitario,SI
-61,Médico Veterinario,53,Médico Veterinario,grado_universitario,SI
-62,Enfermero,15,Enfermero,tecnicatura,SI
-63,Enfermero Superior No Universitario,15,Enfermero,tecnicatura,SI
-64,Enfermero Universitario,15,Enfermero,tecnicatura,SI
-65,Enfermero Profesional,15,Enfermero,tecnicatura,SI
-66,Técnico Superior Esterilización,16,Tecnico En Esterilización,tecnicatura,SI
-67,Técnico Esterilización,16,Tecnico En Esterilización,tecnicatura,SI
-68,Instrumentador Quirúrgico,17,Instrumentador Quirúrgico,tecnicatura,SI
-69,Instrumentista Universitario,17,Instrumentador Quirúrgico,tecnicatura,SI
-70,Instrumentista No Universitario,17,Instrumentador Quirúrgico,tecnicatura,SI
-71,Técnico Superior Instrumentación Quirúrgica,17,Instrumentador Quirúrgico,tecnicatura,SI
-72,Técnico En Quirófano,17,Instrumentador Quirúrgico,tecnicatura,SI
-73,Técnico Universitario En Quirófano,17,Instrumentador Quirúrgico,tecnicatura,SI
-74,Técnico Hemoterapia,18,Técnico En Hemoterapia,tecnicatura,SI
-75,Técnico En Hemoterapia E Inmunohematología,18,Técnico En Hemoterapia,tecnicatura,SI
-76,Técnico Hematólogo,18,Técnico En Hemoterapia,tecnicatura,SI
-77,Técnico De Transfusión,18,Técnico En Hemoterapia,tecnicatura,SI
-78,Técnico En Inmunohematología,18,Técnico En Hemoterapia,tecnicatura,SI
-79,Técnico Prácticas Cardiológicas,19,Tecnico En Prácticas Cardiológicas,tecnicatura,SI
-80,Técnico Cardiólogo,19,Tecnico En Prácticas Cardiológicas,tecnicatura,SI
-81,Técnico Electrocardiografía,19,Tecnico En Prácticas Cardiológicas,tecnicatura,SI
-82,Técnico Electroencefalografía,20,Técnico En Neurofisiología,tecnicatura,SI
-83,Técnico Neurofisiología,20,Técnico En Neurofisiología,tecnicatura,SI
-84,Técnico Laboratorio Análisis Clínicos,21,Técnico De Laboratorio,tecnicatura,SI
-85,Técnico Laboratorio,21,Técnico De Laboratorio,tecnicatura,SI
-86,Técnico Superior Laboratorio,21,Técnico De Laboratorio,tecnicatura,SI
-87,Técnico Análisis Clínicos,21,Técnico De Laboratorio,tecnicatura,SI
-88,Técnico Químico,21,Técnico De Laboratorio,tecnicatura,SI
-89,Técnico Químico Orientación Laboratorista,21,Técnico De Laboratorio,tecnicatura,SI
-90,Analista Químico Biológico,21,Técnico De Laboratorio,tecnicatura,SI
-91,Perito Químico,21,Técnico De Laboratorio,tecnicatura,SI
-92,Técnico Bacteriólogo,21,Técnico De Laboratorio,tecnicatura,SI
-93,Técnico Químico Industrial,21,Técnico De Laboratorio,tecnicatura,SI
-94,Asistente Químico Industrial,21,Técnico De Laboratorio,tecnicatura,SI
-95,Técnico Radiólogo,22,Técnico Radiólogo,tecnicatura,SI
-96,Técnico Superior Radiología,22,Técnico Radiólogo,tecnicatura,SI
-97,Técnico Diagnóstico Por Imágenes,22,Técnico Radiólogo,tecnicatura,SI
-98,Técnico En Radiodiagnóstico,22,Técnico Radiólogo,tecnicatura,SI
-99,Técnico Bioimágenes,22,Técnico Radiólogo,tecnicatura,SI
-100,Técnico En Radiología Y Terapia Radiante,22,Técnico Radiólogo,tecnicatura,SI
-101,Técnico Tomografía Axial Computada,22,Técnico Radiólogo,tecnicatura,SI
-102,Técnico Radiante,22,Técnico Radiólogo,tecnicatura,SI
-103,Técnico En Medicina Nuclear,22,Técnico Radiólogo,tecnicatura,SI
-104,Técnico En Diálisis,23,Técnico Diálisis,tecnicatura,SI
-105,Técnico Hemodiálisis,23,Técnico Diálisis,tecnicatura,SI
-106,Técnico Anestesia,58,Técnico En Anestesia,tecnicatura,SI
-107,Técnico En Histología,24,Técnico En Citología,tecnicatura,SI
-108,Técnico Laboratorio Clínico E Histopatol,24,Técnico En Citología,tecnicatura,SI
-109,Citotécnico,24,Técnico En Citología,tecnicatura,SI
-110,Técnico En Citología,24,Técnico En Citología,tecnicatura,SI
-111,Técnico Preparadores Histología,24,Técnico En Citología,tecnicatura,SI
-112,Técnico Anatomía Patológica,24,Técnico En Citología,tecnicatura,SI
-113,Técnico Prótesis Dental,25,Técnico En Prótesis Dental,tecnicatura,SI
-114,Técnico Protesista Dental,25,Técnico En Prótesis Dental,tecnicatura,SI
-115,Protésico Dental Universitario,25,Técnico En Prótesis Dental,tecnicatura,SI
-116,Mecánico Dental,25,Técnico En Prótesis Dental,tecnicatura,SI
-117,Técnico En Odontología,25,Técnico En Prótesis Dental,tecnicatura,SI
-118,Mecánico Para Odontólogos,25,Técnico En Prótesis Dental,tecnicatura,SI
-119,Técnico Prótesis Y Órtesis,26,Técnico En Prótesis Y Órtesis,tecnicatura,SI
-120,Técnico Ortopédico Ortóptico,26,Técnico En Prótesis Y Órtesis,tecnicatura,SI
-121,Técnico Ortesista Protesista,26,Técnico En Prótesis Y Órtesis,tecnicatura,SI
-122,Técnico Óptico,27,Técnico Óptico,tecnicatura,SI
-123,Técnico En Optica (Optico Técnico),27,Técnico Óptico,tecnicatura,SI
-124,Óptico Técnico/Contactólogo,27,Técnico Óptico,tecnicatura,SI
-125,Técnico Óptica (Contac. E Instrumental),27,Técnico Óptico,tecnicatura,SI
-126,Técnico Oftalmología,27,Técnico Óptico,tecnicatura,SI
-127,Podólogo Universitario,28,Podólogo,tecnicatura,SI
-128,Podólogo,28,Podólogo,tecnicatura,SI
-129,Pedicuro,28,Podólogo,tecnicatura,SI
-130,Técnico Estadística,29,Técnico En Estadística,tecnicatura,SI
-131,Técnico Bioestadística,29,Técnico En Estadística,tecnicatura,SI
-132,Técnico Estadística En Salud,29,Técnico En Estadística,tecnicatura,SI
-133,Técnico Alimentación,30,Técnico En Alimentos,tecnicatura,SI
-134,Técnico Industria Alimentos,30,Técnico En Alimentos,tecnicatura,SI
-135,Técnico Superior Industria Alimentaria,30,Técnico En Alimentos,tecnicatura,SI
-136,Técnico Bromatología,30,Técnico En Alimentos,tecnicatura,SI
-137,Técnico Superior En Alimentos Con Orientación En Bromatología,30,Técnico En Alimentos,tecnicatura,SI
-138,Técnico En Lechería Y Tecnología Alimentos,30,Técnico En Alimentos,tecnicatura,SI
-139,Técnico Farmacia,31,Técnico En Farmacia,tecnicatura,SI
-140,Técnico Farmacia Hospitalaria,31,Técnico En Farmacia,tecnicatura,SI
-141,Nutricionista,135,Técnico Nutricionista,tecnicatura,SI
-142,Terapia Ocupacional (Tec.),136,Técnico En Rehabilitación,tecnicatura,SI
-143,Técnico Estimulación Temprana,136,Técnico En Rehabilitación,tecnicatura,SI
-144,Técnico Disc. Intelectual Y Estimulación Temprana,136,Técnico En Rehabilitación,tecnicatura,SI
-145,Psicomotricista (Téc.),136,Técnico En Rehabilitación,tecnicatura,SI
-146,Técnico En Psicomotricidad,136,Técnico En Rehabilitación,tecnicatura,SI
-147,Musicoterapeuta,136,Técnico En Rehabilitación,tecnicatura,SI
-148,Técnico Psicogerontología,136,Técnico En Rehabilitación,tecnicatura,SI
-149,Profesor En Psicomotricidad,68,Profesor En Educación Especial,tecnicatura,SI
-150,Prof. Educación Especial,68,Profesor En Educación Especial,tecnicatura,SI
-151,Prof. Deficientes Mentales,68,Profesor En Educación Especial,tecnicatura,SI
-152,Prof. Educador Sordos,68,Profesor En Educación Especial,tecnicatura,SI
-153,Prof. Deficientes Del Oído Voz Palabra,68,Profesor En Educación Especial,tecnicatura,SI
-154,Prof. Sordos Y Terapeuta Lenguaje,68,Profesor En Educación Especial,tecnicatura,SI
-155,Técnico Kinesiólogo,136,Técnico En Rehabilitación,tecnicatura,SI
-156,Técnico En Psicopedagogía,136,Técnico En Rehabilitación,tecnicatura,SI
-159,Técnico Obstetricia,77,Técnico En Obstetricia,tecnicatura,SI
-160,Obstetricia (4 Años),77,Técnico En Obstetricia,tecnicatura,SI
-161,Obstetricia (4 Años),77,Técnico En Obstetricia,tecnicatura,SI
-162,Trabajador Social,137,Técnico En Trabajo Social,tecnicatura,SI
-163,Asistente Social,137,Técnico En Trabajo Social,tecnicatura,SI
-164,Educador Sanitario,180,Educador Sanitario,tecnicatura,SI
-165,Tecnico En Salud Rural,85,Agente Sanitario,tecnicatura,SI
-167,Agente Sanitario,85,Agente Sanitario,tecnicatura,SI
-170,Técnico Administración Social Y De Salud,138,Técnico Administración En Salud,tecnicatura,SI
-173,Técnico Univ. En Administración,138,Técnico Administración En Salud,tecnicatura,SI
-174,Técnico Identificacion Recien Nacido,92,Técnico En Identificación Del Recién Nacido,tecnicatura,SI
-175,Técnico Emergencia Médica,93,Técnico En Emergencia Médica,tecnicatura,SI
-176,Técnico En Saneamiento,95,Técnico En Saneamiento Ambiental,tecnicatura,SI
-177,Técnico Saneamiento Ambiental,95,Técnico En Saneamiento Ambiental,tecnicatura,SI
-179,Agente Propaganda Médica,97,Agente Propaganda Médica,tecnicatura,SI
-180,Periodista,98,Periodista,tecnicatura,SI
-181,Tecnico Veterinaria,99,Técnico En Veterinaria,tecnicatura,SI
-182,Acompañante Terapéutico,100,Acompañante Terapéutico,tecnicatura,SI
-183,Auxiliar De Enfermería,32,Auxiliar En Enfermería,auxiliarato,SI
-184,Asistente De Enfermería,32,Auxiliar En Enfermería,auxiliarato,SI
-185,Auxiliar En Geriatría,101,Auxiliar En Geriatría,auxiliarato,SI
-188,Auxiliar De Familia Especializado En Cuidado De Personas Con Discapacidad,103,Auxiliar De Familia Especializado En Cuidado De Personas Con Discapacidad,auxiliarato,SI
-189,Auxiliar De Laboratorio,33,Auxiliar De Laboratorio,auxiliarato,SI
-190,Auxiliar De Bioquímica,33,Auxiliar De Laboratorio,auxiliarato,SI
-191,Auxiliar En Patología,105,Auxiliar En Patología,auxiliarato,SI
-193,Auxiliar De Odontología,34,Asistente Dental,auxiliarato,SI
-194,Asistente Odontología,34,Asistente Dental,auxiliarato,SI
-195,Asistente Dental,34,Asistente Dental,auxiliarato,SI
-196,Auxiliar De Anestesia,178,Auxiliar De Anestesia,auxiliarato,SI
-197,Auxiliar Técnico De Anestesia,178,Auxiliar De Anestesia,auxiliarato,SI
-198,Auxiliar Instrum. Quirúrgica,139,Auxiliar De Cirugía,auxiliarato,SI
-199,Auxiliar De Esterilización,110,Auxiliar De Esterilización,auxiliarato,SI
-200,Auxiliar De Hemoterapia,111,Auxiliar De Hemoterapia,auxiliarato,SI
-202,Auxiliar De Radiología,113,Auxiliar De Radiología,auxiliarato,SI
-203,Auxiliar De Farmacia,114,Auxiliar De Farmacia,auxiliarato,SI
-204,Idóneos De Farmacia,114,Auxiliar De Farmacia,auxiliarato,SI
-206,Agente Sanitario,117,Auxiliar Agente Sanitario,auxiliarato,SI
-207,Auxiliar De Estadística De Salud,119,Auxiliar De Estadística,auxiliarato,SI
-208,Auxiliar De Estadística,119,Auxiliar De Estadística,auxiliarato,SI
-210,Auxiliar De Bromatología,121,Auxiliar De Bromatología,auxiliarato,SI
-211,Inspector De Bromatología,121,Auxiliar De Bromatología,auxiliarato,SI
-212,Auxiliar Dietista,123,Auxiliar Dietista,auxiliarato,SI
-213,Cosmetólogo,124,Cosmetólogo,auxiliarato,SI
-215,Auxiliar En Electroencefalografía,126,Auxiliar En Electroencefalografia,auxiliarato,SI
-218,Auxiliar De Educación Sanitaria,117,Auxiliar Agente Sanitario,auxiliarato,SI
-219,Auxiliar De Veterinaria,130,Auxiliar De Veterinaria,auxiliarato,SI
-220,Agente De Propaganda Médica,131,Agente De Propaganda Médica,auxiliarato,SI
-221,Visitador Médico,131,Agente De Propaganda Médica,auxiliarato,SI
-261,Licenciado En Diagnóstico Por Imágenes,44,Licenciado En Producción De Bioimágenes,grado_universitario,SI
-262,Lic. En Gestión De Agro Alimentos,14,Tecnología Alimentaria,grado_universitario,SI
-265,Lic. En Ciencias Químicas,9,Profesional De Análisis Clínicos,grado_universitario,SI
-266,Ingeniero En Alimentos,14,Tecnología Alimentaria,grado_universitario,SI
-268,Auxiliar En Electrocardiografía,174,Auxiliar En Electrocardiografía,auxiliarato,SI
-269,Auxiliar De Familia Especializado En Cuidado De Personas,175,Auxiliar De Familia Especializado En Cuidado De Personas,auxiliarato,SI
-270,Operador Socio-Comunitario Especializado En Atención De Las Adicciones,176,Operador Socio-Comunitario Especializado En Atención De Las Adicciones,auxiliarato,SI
-271,Técnico En Prevención De La Drogadependencia,177,Técnico En Prevención De La Drogadependencia,tecnicatura,SI
-272,Tecnico Superior En Agente Sanitario,85,Agente Sanitario,tecnicatura,SI
-275,Antropólogo,164,Antropólogo,grado_universitario,SI
-276,Licenciado En Instrumentación Quirúrgica,181,Licenciado En Instrumentación Quirúrgica,grado_universitario,SI
-277,Auxiliar De Fonoaudiología,125,Auxiliar De Fonoaudiología,auxiliarato,SI
-278,Técnico En Fonoaudiología,182,Técnico En Fonoaudiología,tecnicatura,SI
-279,Auxiliar Acompañante Terapéutico,183,Auxiliar Acompañante Terapeútico,auxiliarato,SI
-280,Licenciado En Administración,184,Licenciado En Administración,grado_universitario,SI
-283,Bromatologo,30,Técnico En Alimentos,tecnicatura,SI
-285,Auxiliar De Dialisis,112,Auxiliar De Diálisis,auxiliarato,SI
-286,Tenico De Laboratorio Para Odontologos,25,Técnico En Prótesis Dental,tecnicatura,SI
-287,Tecnico Universitario En Emergencias Sanitarias Y Desastres,93,Técnico En Emergencia Médica,tecnicatura,SI
-288,Licenciado En Hemoterapia E Inmunohematologia,9,Profesional De Análisis Clínicos,grado_universitario,SI
-289,Técnica En Obstetricia,77,Técnico En Obstetricia,tecnicatura,SI
-293,Licenciado En Ciencias De La Educación,192,Licenciado En Ciencias De La Educación,grado_universitario,SI
-294,Técnico En Hemoterapia,18,Técnico En Hemoterapia,tecnicatura,SI
-299,Instrumentador De Cirugia,17,Instrumentador Quirúrgico,tecnicatura,SI
-300,Licenciado En Podología,194,Licenciado En Podología,grado_universitario,SI
-301,Técnico Superior En Salud Social Y Comunitaria,85,Agente Sanitario,tecnicatura,SI
-302,Licenciatura En Hemoterapia,9,Profesional De Análisis Clínicos,grado_universitario,SI
-304,Lic. En Fonoaudiología Y Terapia Del Lenguaje,5,Fonoaudiólogo,grado_universitario,SI
-305,Licenciado En Fonoaudiología Y Clínica Del Lenguaje,5,Fonoaudiólogo,grado_universitario,SI
-306,Cirujano Dentista,36,Odontólogo,grado_universitario,SI
-307,Veterinario,53,Médico Veterinario,grado_universitario,SI
-310,Licenciado En Psicomotricidad,42,Psicomotricista,grado_universitario,SI
-312,Lic. Terapia Del Lenguaje,5,Fonoaudiólogo,grado_universitario,SI
+,id_profesion_referencia,profesion_referencia,id_profesion,profesion,nivel
+0,1,Psicólogo,5,Psicólogo,Grado Universitario
+1,1,Psicólogo,6,Licenciado en psicología,Grado Universitario
+2,2,Psicopedagogo,7,Psicopedagogo,Grado Universitario
+3,2,Psicopedagogo,8,Licenciado en psicopedagogía,Grado Universitario
+4,3,Kinesiólogo,9,Kinesiólogo,Grado Universitario
+5,3,Kinesiólogo,10,Licenciado en kinesiología,Grado Universitario
+6,3,Kinesiólogo,11,Licenciado terapia física,Grado Universitario
+7,5,Fonoaudiólogo,18,Fonoaudiólogo,Grado Universitario
+8,5,Fonoaudiólogo,19,Licenciado en fonoaudiología,Grado Universitario
+9,5,Fonoaudiólogo,304,LIC. EN FONOAUDIOLOGÍA Y TERAPIA DEL LENGUAJE,Grado Universitario
+10,5,Fonoaudiólogo,305,LICENCIADO EN FONOAUDIOLOGÍA Y CLÍNICA DEL LENGUAJE,Grado Universitario
+11,5,Fonoaudiólogo,312,Lic. Terapia del Lenguaje,Grado Universitario
+12,6,Nutricionista,20,Nutricionista,Grado Universitario
+13,6,Nutricionista,21,Licenciado en nutrición,Grado Universitario
+14,6,Nutricionista,22,Nutricionista dietista,Grado Universitario
+15,7,Lic. Obstetricia,23,Obstétrico,Grado Universitario
+16,7,Lic. Obstetricia,24,Licenciado en obstetricia,Grado Universitario
+17,8,Bioquímico,27,Bioquímico,Grado Universitario
+18,8,Bioquímico,28,Licenciado en bioquímica,Grado Universitario
+19,11,Biólogo,41,Licenciado biología,Grado Universitario
+20,11,Biólogo,42,Biólogo,Grado Universitario
+21,11,Biólogo,43,Licenciado biología molecular,Grado Universitario
+22,12,Microbiólogo,44,Licenciado microbiología,Grado Universitario
+23,12,Microbiólogo,45,Microbiólogo,Grado Universitario
+24,13,Bacteriólogo,46,Bacteriólogo,Grado Universitario
+25,13,Bacteriólogo,47,Bacteriólogo clínico industrial,Grado Universitario
+26,15,Enfermero,62,Enfermero,Tecnicatura
+27,15,Enfermero,63,Enfermero superior no universitario,Tecnicatura
+28,15,Enfermero,64,Enfermero universitario,Tecnicatura
+29,15,Enfermero,65,Enfermero profesional,Tecnicatura
+30,28,Podólogo,127,Podólogo universitario,Tecnicatura
+31,28,Podólogo,128,Podólogo,Tecnicatura
+32,28,Podólogo,129,Pedicuro,Tecnicatura
+33,34,Asistente Dental,193,Auxiliar de odontología,Auxiliarato
+34,34,Asistente Dental,194,Asistente odontología,Auxiliarato
+35,34,Asistente Dental,195,Asistente dental,Auxiliarato
+36,35,Médico,1,Médico,Grado Universitario
+37,36,Odontólogo,2,Odontólogo,Grado Universitario
+38,38,Farmacéutico,4,Farmacéutico,Grado Universitario
+39,40,Musicoterapeuta,15,Musicoterapeuta,Grado Universitario
+40,40,Musicoterapeuta,16,Licenciado en musicoterápia,Grado Universitario
+41,42,Psicomotricista,17,Licenciado en psicomotrocidad,Grado Universitario
+42,42,Psicomotricista,310,Licenciado en Psicomotricidad,Grado Universitario
+43,42,Psicomotricista,316,Licenciado Psicomotricidad Educativa,Grado Universitario
+44,45,Genetista,48,Licenciado en genética,Grado Universitario
+45,98,Periodista,180,Periodista,Tecnicatura
+46,124,Cosmetólogo,213,Cosmetólogo,Auxiliarato
+47,164,Antropólogo,275,Antropólogo,Grado Universitario
+48,165,Sociólogo,259,Sociólogo,Grado Universitario
+49,166,Agrónomo,264,Ing. agrónomo,Grado Universitario
+50,167,Biotecnólogo,263,Lic. en biotecnología,Grado Universitario
+51,180,Educador Sanitario,164,Educador sanitario,Tecnicatura
+52,183,Auxiliar Acompañante Terapeútico,279,Auxiliar Acompañante Terapéutico,Auxiliarato
+53,185,Contador,281,Contador,Grado Universitario
+54,189,Abogado,290,Abogado,Grado Universitario
+55,190,Ingeniero,292,Ingeniero,Grado Universitario
+56,191,Arquitecto,291,Arquitecto,Grado Universitario
+57,193,Matemático,295,Lic. en Ciencias Matemáticas,Grado Universitario
+
